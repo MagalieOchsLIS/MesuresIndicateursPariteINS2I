@@ -13,3 +13,5 @@ Document décrivant comment mener une analyse quantitative à partir des donnée
 Enquête qualitative - Conclusion de l'atelier 
 Document décrivant comment mener une enquête dans le laboratoire (questions de l'enquête, analyse, diffusion, ...)
 
+Sujet de Stage - Recherche Action - Analyse qualitative et quantitative des freins à la parité
+Docuement décrivant le sujet de stage que nous aovns diffusé pour recruter un.e stagiaire pour mener ces analyses. Ce document contient aussi les listes de diffusion et les profils des canidat.e.s. 
